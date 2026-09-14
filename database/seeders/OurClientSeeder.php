@@ -66,6 +66,11 @@ class OurClientSeeder extends Seeder
                 'link'  => '#',
                 'image' => 'clients/pujatera.jpeg',
             ],
+            [
+                'title' => 'PT. BISMILLAH KUN FAYAKUN',
+                'link'  => '#',
+                'image' => 'clients/bkf.jpeg',
+            ],
         ];
 
         foreach ($clients as $client) {
